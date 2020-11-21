@@ -1,2 +1,2 @@
 # Draw-Pikachu
-<img src="">
+<img src="https://github.com/hmgtech/Draw-Pikachu/blob/main/Pikachu.gif">
